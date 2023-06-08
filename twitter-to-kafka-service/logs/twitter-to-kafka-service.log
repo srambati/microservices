@@ -1,0 +1,12 @@
+2023-06-08 08:18:11 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on Srinivass-MacBook-Pro.local with PID 19145 (/Users/srinivas/Desktop/Even-Driven-MicroServices/microservices-demo/twitter-to-kafka-service/target/classes started by srinivas in /Users/srinivas/Desktop/Even-Driven-MicroServices/microservices-demo)
+2023-06-08 08:18:11 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2023-06-08 08:18:11 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 5.407 seconds (JVM running for 5.645)
+2023-06-08 08:18:11 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2023-06-08 08:18:11 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch]
+2023-06-08 08:18:11 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
+2023-06-08 08:35:42 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on Srinivass-MacBook-Pro.local with PID 19275 (/Users/srinivas/Desktop/Even-Driven-MicroServices/microservices-demo/twitter-to-kafka-service/target/classes started by srinivas in /Users/srinivas/Desktop/Even-Driven-MicroServices/microservices-demo)
+2023-06-08 08:35:42 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2023-06-08 08:35:42 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 5.391 seconds (JVM running for 5.63)
+2023-06-08 08:35:42 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2023-06-08 08:35:42 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch]
+2023-06-08 08:35:42 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
